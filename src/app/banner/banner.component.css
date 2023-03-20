@@ -15,7 +15,7 @@
     font-style: italic;
     color: var(--green);
     text-decoration: underline;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Prompt', sans-serif;
 }
 .name{
     grid-row: 3/4;
@@ -24,7 +24,7 @@
     font-size: 2rem;
     margin-top: 3rem;
     outline: 1px solid white;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Prompt', sans-serif;
     
 }
 .name span:nth-of-type(1) span {
