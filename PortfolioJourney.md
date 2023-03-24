@@ -51,4 +51,6 @@
 - Day 2:
 	Today, I did the myInformation componnet and faced this issue ???
 
-- Day 3:
+- Day 3: 
+-- Learned about gh-pages
+-- Deployed my website using by making new branch gh-pages
