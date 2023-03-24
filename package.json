@@ -1,6 +1,7 @@
 {
+  "homepage": "https://kamini-c.github.io/my-portfolio/",
   "name": "angular-portfolio",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,7 +11,6 @@
     "deploy": "ng build && gh-pages -d dist"
   },
   "private": true,
-  "homepage": "https://kamini-c.github.io/my-portfolio/",
   "dependencies": {
     "@angular/animations": "^14.2.12",
     "@angular/cdk": "^14.2.7",
