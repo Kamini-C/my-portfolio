@@ -29,11 +29,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Portfolio blueprint
 ## Modules:
-		Banner
-		Bio
-		Education
-		Work Experience
-		Skills
-        Contact
-		
-		
+- Banner
+- Bio
+- Education
+- Work Experience
+- Skills
+- Contacts
